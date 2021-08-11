@@ -1,0 +1,28 @@
+
+:root{
+    --light-font-weight: lighter;
+}
+
+.current-country .card h5 {
+    font-weight: var(--light-font-weight);
+    margin: 15px 0;
+}
+
+.current-country .card p {
+    margin: 0;
+}
+
+.owl-carousel .item h4,
+.owl-carousel .item p {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.current-news .card h5 {
+    font-weight: var(--light-font-weight);
+    margin: 10px 0;
+}
+
+.current-news .card span {
+    display: block;
+}
